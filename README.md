@@ -1,4 +1,4 @@
-# Infosecwarrior-UI
+# Infosecwarrior UI
 
 A sophisticated dark theme designed for information density, utilizing a distinct color-coded hierarchy for headings and lists to make complex documentation easily navigable.
 
